@@ -25,6 +25,7 @@ const int inf = (1<<30);
 void solve()
 {
 	int i, j, n;
+	cout << '1';
 }
 int main(){
 	//ios_base::sync_with_stdio(false);
