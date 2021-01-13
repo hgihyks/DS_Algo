@@ -1,0 +1,1 @@
+Link to the problem: [B - Even Array](https://codeforces.com/contest/1367/problem/B)

@@ -1,0 +1,1 @@
+Link to the problem: [C - Board Moves](https://codeforces.com/contest/1353/problem/C)

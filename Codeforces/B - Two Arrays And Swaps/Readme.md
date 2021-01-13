@@ -1,0 +1,1 @@
+Link to the problem: [B - Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B)

@@ -1,0 +1,1 @@
+Link to the problem: [A - Required Remainder](https://codeforces.com/contest/1374/problem/A)

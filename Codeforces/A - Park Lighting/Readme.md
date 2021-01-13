@@ -1,0 +1,1 @@
+Link to the problem: [A - Park Lighting](https://codeforces.com/contest/1358/problem/A)

@@ -1,0 +1,1 @@
+Link to the problem: [B - Minimum Product](https://codeforces.com/contest/1409/problem/B)

@@ -1,0 +1,1 @@
+Link to the problem: [B - Boboniu Plays Chess](https://codeforces.com/contest/1395/problem/B)

@@ -1,0 +1,1 @@
+Link to the problem: [B - 01 Game](https://codeforces.com/contest/1373/problem/B)

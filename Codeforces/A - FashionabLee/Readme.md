@@ -1,0 +1,1 @@
+Link to the problem: [A - FashionabLee](https://codeforces.com/contest/1369/problem/A)

@@ -1,0 +1,1 @@
+Link to the problem: [D - Decrease the Sum of Digits](https://codeforces.com/contest/1409/problem/D)

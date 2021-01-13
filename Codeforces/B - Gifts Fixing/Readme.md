@@ -1,0 +1,1 @@
+Link to the problem: [B - Gifts Fixing](https://codeforces.com/contest/1399/problem/B)

@@ -1,0 +1,1 @@
+Link to the problem: [C - Move Brackets](https://codeforces.com/contest/1374/problem/C)

@@ -1,0 +1,1 @@
+Link to the problem: [B - Maria Breaks the Self-isolation](https://codeforces.com/contest/1358/problem/B)

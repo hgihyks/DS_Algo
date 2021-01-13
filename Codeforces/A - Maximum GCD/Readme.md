@@ -1,0 +1,1 @@
+Link to the problem: [A - Maximum GCD](https://codeforces.com/contest/1370/problem/A)

@@ -1,0 +1,1 @@
+Link to the problem: [B - Bear and Finding Criminals](https://codeforces.com/contest/680/problem/B)

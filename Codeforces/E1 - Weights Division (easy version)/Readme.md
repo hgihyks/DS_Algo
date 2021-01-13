@@ -1,0 +1,1 @@
+Link to the problem: [E1 - Weights Division (easy version)](https://codeforces.com/contest/1399/problem/E1)

@@ -1,0 +1,1 @@
+Link to the problem: [B - Petya and Countryside](https://codeforces.com/contest/66/problem/B)

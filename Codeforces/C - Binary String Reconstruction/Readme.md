@@ -1,0 +1,1 @@
+Link to the problem: [C - Binary String Reconstruction](https://codeforces.com/contest/1400/problem/C)

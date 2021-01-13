@@ -1,0 +1,1 @@
+Link to the problem: [B - Balanced Array](https://codeforces.com/contest/1343/problem/B)

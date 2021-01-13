@@ -1,0 +1,1 @@
+Link to the problem: [A - Remove Smallest](https://codeforces.com/contest/1399/problem/A)

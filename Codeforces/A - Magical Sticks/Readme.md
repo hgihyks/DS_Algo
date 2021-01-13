@@ -1,0 +1,1 @@
+Link to the problem: [A - Magical Sticks](https://codeforces.com/contest/1371/problem/A)

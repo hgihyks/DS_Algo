@@ -1,0 +1,1 @@
+Link to the problem: [A - Short Substrings](https://codeforces.com/contest/1367/problem/A)

@@ -1,0 +1,1 @@
+Link to the problem: [D - Zero Remainder Array](https://codeforces.com/contest/1374/problem/D)

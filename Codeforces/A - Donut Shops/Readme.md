@@ -1,0 +1,1 @@
+Link to the problem: [A - Donut Shops](https://codeforces.com/contest/1373/problem/A)

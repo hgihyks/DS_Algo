@@ -1,0 +1,1 @@
+Link to the problem: [C - Air Conditioner](https://codeforces.com/contest/1304/problem/C)

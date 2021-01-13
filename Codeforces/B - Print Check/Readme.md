@@ -1,0 +1,1 @@
+Link to the problem: [B - Print Check](https://codeforces.com/contest/631/problem/B)

@@ -1,0 +1,1 @@
+Link to the problem: [C - Pluses and Minuses](https://codeforces.com/contest/1373/problem/C)

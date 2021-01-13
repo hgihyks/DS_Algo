@@ -1,0 +1,1 @@
+Link to the problem: [C - Good Subarrays](https://codeforces.com/contest/1398/problem/C)

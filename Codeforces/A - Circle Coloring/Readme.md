@@ -1,0 +1,1 @@
+Link to the problem: [A - Circle Coloring](https://codeforces.com/contest/1408/problem/A)

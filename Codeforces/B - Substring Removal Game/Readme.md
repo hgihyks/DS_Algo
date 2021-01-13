@@ -1,0 +1,1 @@
+Link to the problem: [B - Substring Removal Game](https://codeforces.com/contest/1398/problem/B)

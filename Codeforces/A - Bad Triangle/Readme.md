@@ -1,0 +1,1 @@
+Link to the problem: [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A)

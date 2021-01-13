@@ -1,0 +1,1 @@
+Link to the problem: [C - Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C)

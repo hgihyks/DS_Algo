@@ -1,0 +1,1 @@
+Link to the problem: [B - Nice Matrix](https://codeforces.com/contest/1422/problem/B)

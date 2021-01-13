@@ -1,0 +1,1 @@
+Link to the problem: [C - Constanze's Machine](https://codeforces.com/contest/1245/problem/C)
