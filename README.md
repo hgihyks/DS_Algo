@@ -1,2 +1,1 @@
-# DS_Algo
-Collection of problems solved.
+Link to the problem: [C - Board Moves](https://codeforces.com/contest/1353/problem/C)
