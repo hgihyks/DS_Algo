@@ -1,0 +1,1 @@
+Link to the problem: [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)

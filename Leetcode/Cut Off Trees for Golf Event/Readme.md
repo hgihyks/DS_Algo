@@ -1,0 +1,1 @@
+Link to the problem: [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/)
