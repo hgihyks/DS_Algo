@@ -1,0 +1,1 @@
+Link to the problem: [Dice Throw](https://binarysearch.com/problems/Dice-Throw)

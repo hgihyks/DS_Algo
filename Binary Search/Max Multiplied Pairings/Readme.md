@@ -1,0 +1,1 @@
+Link to the problem: [Max Multiplied Pairings](https://binarysearch.com/problems/Max-Multiplied-Pairings)

@@ -1,0 +1,1 @@
+Link to the problem: [Communication Towers](https://binarysearch.com/problems/Communication-Towers)

@@ -1,0 +1,1 @@
+Link to the problem: [Minimum Light Radius](https://binarysearch.com/problems/Minimum-Light-Radius)

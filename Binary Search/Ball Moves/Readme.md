@@ -1,0 +1,1 @@
+Link to the problem: [Ball Moves](https://binarysearch.com/problems/Ball-Moves)

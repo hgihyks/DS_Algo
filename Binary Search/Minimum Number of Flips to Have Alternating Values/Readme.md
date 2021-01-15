@@ -1,0 +1,1 @@
+Link to the problem: [Minimum Number of Flips to Have Alternating Values](https://binarysearch.com/problems/Minimum-Number-of-Flips-to-Have-Alternating-Values)

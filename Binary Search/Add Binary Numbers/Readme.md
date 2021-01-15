@@ -1,0 +1,1 @@
+Link to the problem: [Add Binary Numbers](https://binarysearch.com/problems/Add-Binary-Numbers)

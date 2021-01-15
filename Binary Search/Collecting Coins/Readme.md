@@ -1,0 +1,1 @@
+Link to the problem: [Collecting Coins](https://binarysearch.com/problems/Collecting-Coins)

@@ -1,0 +1,1 @@
+Link to the problem: [Special Product List](https://binarysearch.com/problems/Special-Product-List)

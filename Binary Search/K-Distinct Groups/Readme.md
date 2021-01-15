@@ -1,0 +1,1 @@
+Link to the problem: [K-Distinct Groups](https://binarysearch.com/problems/K-Distinct-Groups)

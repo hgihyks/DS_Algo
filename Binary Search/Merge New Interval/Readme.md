@@ -1,0 +1,1 @@
+Link to the problem: [Merge New Interval](https://binarysearch.com/problems/Merge-New-Interval)

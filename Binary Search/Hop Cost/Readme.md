@@ -1,0 +1,1 @@
+Link to the problem: [Hop Cost](https://binarysearch.com/problems/Hop-Cost)
